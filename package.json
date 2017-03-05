@@ -1,0 +1,21 @@
+{
+  "name": "untis-viewer",
+  "version": "0.1.2",
+  "main": "index.js",
+  "author": "Samuel Kaiser",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.17.0",
+    "xo": "^0.17.1"
+  },
+  "dependencies": {
+    "koa": "^2.0.1",
+    "koa-qs": "^2.0.0",
+    "koa-static": "^3.0.0",
+    "lodash.padstart": "^4.6.1",
+    "node-fetch": "^1.6.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
