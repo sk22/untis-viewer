@@ -1,5 +1,6 @@
 {
   "name": "untis-viewer",
+  "description": "Fetches specified Untis timetables",
   "version": "0.1.2",
   "main": "index.js",
   "author": "Samuel Kaiser",
